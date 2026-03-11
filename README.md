@@ -1,25 +1,69 @@
-Hi, I'm R Teja
+# Hi, I'm R Teja
 
-Computer Science Student | AI & Data Science Enthusiast
-B.Tech CSE – Jain University (2022–2026)
+Computer Science Engineering Student at Jain University (2022–2026)
 
-Skills
-Python | SQL | Machine Learning | Data Analysis
-TensorFlow | Pandas | NumPy
-Power BI | Tableau | Matplotlib
-Flask | Django | FastAPI
+Focused on AI, Machine Learning, and Data Science.
 
-Current Focus
-AI-powered systems
-Machine learning for prediction and analytics
-Data visualization and business intelligence
+---
 
-Projects
-Fraud Detection in Banking
-AI Document Q&A Chatbot (RAG)
-IPL Match Data Analysis
-Cyclone Early Warning System
+## Skills
 
-Contact - 8919896063
-LinkedIn - https://www.linkedin.com/in/r-teja-562023261
-Email - rtej314@gmail.com
+Python  
+SQL  
+Machine Learning  
+TensorFlow  
+Pandas  
+NumPy  
+Power BI  
+Tableau  
+Flask  
+Django  
+FastAPI  
+Git  
+
+---
+
+## Projects
+
+### Fraud Detection in Banking
+Machine learning model that detects fraudulent transactions using engineered financial features.
+
+Tech: Python, Pandas, Scikit-learn
+
+---
+
+### AI Document Q&A Chatbot
+Built a Retrieval Augmented Generation system using Google Gemini and ChromaDB to answer questions from enterprise documents.
+
+Tech: RAG, Gemini API, ChromaDB, FastAPI
+
+---
+
+### IPL Data Analysis
+Exploratory data analysis on 10+ IPL seasons to discover match-winning trends and performance insights.
+
+Tech: Python, Pandas, Matplotlib, Seaborn
+
+---
+
+## Education
+
+B.Tech Computer Science Engineering  
+Jain University Bangalore  
+GPA: 8.0
+
+---
+
+## Certifications
+
+Microsoft Power BI Data Analyst  
+Cloud Computing Fundamentals – IBM  
+Introduction to Tableau
+
+---
+
+## Contact
+
+Email: rtej314@gmail.com  
+LinkedIn: https://linkedin.com  
+GitHub: https://github.com/RTeja-gif
