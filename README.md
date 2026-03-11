@@ -67,3 +67,11 @@ Introduction to Tableau
 Email: rtej314@gmail.com  
 LinkedIn: https://linkedin.com  
 GitHub: https://github.com/RTeja-gif
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RTeja-gif&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RTeja-gif&layout=compact)
